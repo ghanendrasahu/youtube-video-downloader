@@ -1,0 +1,15 @@
+# Binaries and tools (large, redistributable upstream)
+*.exe
+
+# Downloaded media
+Downloads/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor junk
+Thumbs.db
+desktop.ini

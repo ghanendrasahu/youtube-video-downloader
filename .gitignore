@@ -13,3 +13,6 @@ venv/
 # OS / editor junk
 Thumbs.db
 desktop.ini
+
+# Release archives (build artifacts)
+*.zip
